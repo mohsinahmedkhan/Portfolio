@@ -19,7 +19,7 @@ const Portfolio2 = () => {
             style={{ borderColor: "#FDC448" }}
           >
             <div className="">
-              <img src={Portfolio} alt="" />
+              <img src={PortfolioImg} alt="" />
             </div>
             <div className="content px-4 py-3 space-y-4">
               <h2 className="font-bold text-2xl">Apple Clone</h2>

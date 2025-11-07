@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Portfolio from '../../assets/portfolio.PNG';
+import PortfolioImg from '../../assets/portfolio.PNG';
 import Portfolio2 from '../../assets/portfolio2.PNG';
 import Portfolio3 from '../../assets/portfolio3.PNG';
 import AOS from 'aos';
@@ -22,7 +22,7 @@ const Services = () => {
           {/* Box 1 */}
           <div data-aos="zoom-in" className="relative overflow-hidden group rounded-md shadow-md cursor-pointer ">
             <img
-              src={Portfolio}
+              src={PortfolioImg}
               alt="Service"
               className=" border-y-2 w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
               style={{ borderColor: "#FDC448" }}
