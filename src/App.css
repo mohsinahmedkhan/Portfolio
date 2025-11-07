@@ -1,0 +1,11 @@
+:root {
+  --bg-color: #141414;
+  --secondary-color: #2ecc71;
+  --primary-color: #FDC448;
+  --heading-font: 'Rajdhani', sans-serif;
+  --text-color: #333333;
+}
+.Name{
+    font-family: 'Great Vibes', cursive;
+
+}
