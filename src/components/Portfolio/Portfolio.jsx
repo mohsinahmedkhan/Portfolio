@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react'
-import PortfolioImg from '../../assets/portfolio.PNG';
-import Portfolio2 from '../../assets/portfolio2.PNG';
-import Portfolio3 from '../../assets/portfolio3.PNG';
+import PortfolioImg  from "../../assets/portfolio.PNG";
+import PortfolioImg2 from "../../assets/portfolio2.PNG";
+import PortfolioImg3 from "../../assets/portfolio3.PNG";
+
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 const Services = () => {
@@ -44,7 +45,7 @@ const Services = () => {
           {/* Box 2 */}
           <div data-aos="zoom-in" className="relative overflow-hidden group rounded-md shadow-md cursor-pointer text-[Rajdhani]">
             <img
-              src={Portfolio2}
+              src={PortfolioImg2}
               alt="Service"
               className="border-y-2 w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
               style={{ borderColor: "#FDC448" }}
@@ -62,7 +63,7 @@ const Services = () => {
           {/* Box 3 */}
           <div data-aos="zoom-in" className="relative overflow-hidden group rounded-md shadow-md cursor-pointer">
             <img
-              src={Portfolio3}
+              src={PortfolioImg3}
               alt="Service"
               className=" border-y-2 w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
               style={{ borderColor: "#FDC448" }}
