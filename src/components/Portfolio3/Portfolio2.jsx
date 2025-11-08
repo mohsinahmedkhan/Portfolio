@@ -49,7 +49,7 @@ const Portfolio2 = () => {
             style={{ borderColor: "#FDC448" }}
           >
             <div className="">
-              <img src={Portfolioimg2} alt="" />
+              <img src={PortfolioImg2} alt="" />
             </div>
             <div className="content px-4 py-3 space-y-4">
               <h2 className="font-bold text-2xl">SMIT Chat-Bot</h2>
@@ -78,7 +78,7 @@ const Portfolio2 = () => {
             style={{ borderColor: "#FDC448" }}
           >
             <div className="">
-              <img src={Portfolio3} alt="" />
+              <img src={PortfolioImg3} alt="" />
             </div>
             <div className="content px-4 py-3 space-y-4">
               <h2 className="font-bold text-2xl">Real E-state website</h2>
