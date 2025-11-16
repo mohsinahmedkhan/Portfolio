@@ -67,7 +67,7 @@ const Hero = () => {
               I'm freelance frontend developer based in Pakistan, and I'm very passionate and dedicated to my work.
             </motion.p>
             <a
-              href="https://wa.me/923412305655"
+              href="https://wa.me/923132999667"
               target="_blank"
             >
               <motion.button
